@@ -1,7 +1,5 @@
 # calculadora-de-partidas-rankeadas
 
-##Desafio - Calculadora de partidas Rankeadas
-
  # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
